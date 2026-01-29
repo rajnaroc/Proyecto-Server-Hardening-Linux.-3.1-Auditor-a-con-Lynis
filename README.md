@@ -36,8 +36,14 @@ Lynis es una herramienta de auditoría de seguridad ampliamente utilizada en sis
 - **README.md**  
   Descripción del proyecto y su contexto.
 
-- **Apacheservidorweb-27012026-Audit-init.dat**  
+- **HProvincial-27012026-Audit-init.dat**  
   Informe generado por Lynis tras la auditoría inicial del servidor, que incluye:
+  - Resultados del análisis
+  - Advertencias detectadas
+  - Recomendaciones de mejora
+  - Puntuación de seguridad
+- **HProvincial-29012026-Audit-Fin.dat**
+  Informe generado por Lynis tras la auditoría final del servidor, que incluye:
   - Resultados del análisis
   - Advertencias detectadas
   - Recomendaciones de mejora
